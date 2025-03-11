@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "8DD2QFHW7C.com.anonymous.upto",
-                "paths": ["/password-reset/*"]
+                "paths": ["/password-reset*"]
             }
         ]
     },
@@ -14,4 +14,4 @@
     "webcredentials": {
         "apps": ["8DD2QFHW7C.com.anonymous.upto"]
     }
-}
+}this 

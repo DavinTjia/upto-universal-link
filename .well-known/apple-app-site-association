@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "8DD2QFHW7C.com.anonymous.upto",
+                "paths": ["/password-reset/*"]
+            }
+        ]
+    },
+    "activitycontinuation": {
+        "apps": ["8DD2QFHW7C.com.anonymous.upto"]
+    },
+    "webcredentials": {
+        "apps": ["8DD2QFHW7C.com.anonymous.upto"]
+    }
+}

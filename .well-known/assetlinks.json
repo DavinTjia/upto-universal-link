@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.anonymous.upto",
+            "sha256_cert_fingerprints": [
+                "1D:B4:C9:B9:5A:E3:BB:09:BD:43:B6:46:B6:63:7E:B3:34:4B:49:B8:15:37:F2:10:83:2C:B9:7B:07:86:D9:00"
+            ]
+        }
+    }
+]
